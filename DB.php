@@ -1,5 +1,5 @@
 <?php
-
+ // database class make connection with sql and return data
 class DB {
         public $pdo;
         public function __construct($host, $dbname, $username, $password) {
