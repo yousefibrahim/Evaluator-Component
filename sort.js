@@ -1,15 +1,36 @@
 var data = [{
 	user:'ahmed',
-	score:44
+	score:6,
+	interest:"computerscience"
 },{
-	user:'lol',
-	score:7
+	user:'zamly',
+	score:7,
+	interest:"computerscience"
 },{
-	user:'5od',
-	score:10
+	user:'mahmoud',
+	score:10,
+	interest:"civil engineering"
 },{
-	user:'hat',
-	score:2
+	user:'kareem',
+	score:13,
+	interest:"computerscience"
+	
+},{
+	user:'yousef',
+	score:2,
+	interest:"Tourism"
+},{
+	user:'younes',
+	score:2,
+	interest:""
+},{
+	user:'magdy',
+	score:17,
+	interest:"computerscience"
+},{
+	
+	
+	
 	
 	
 	
